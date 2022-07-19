@@ -1,0 +1,66 @@
+{
+  "posts": [
+    {
+      "title": "new titlw",
+      "description": "new description",
+      "id": 1
+    },
+    {
+      "title": "some title",
+      "description": "description",
+      "id": 2
+    },
+    {
+      "title": "new ",
+      "description": "new desc7\n\n",
+      "id": 3
+    },
+    {
+      "title": "Latest Title",
+      "description": "Latesst Descript",
+      "id": 4
+    },
+    {
+      "title": "Latest 2",
+      "description": "Latesst Descript2",
+      "id": 5
+    },
+    {
+      "title": "some new title",
+      "description": "some new desc",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "content": "new comment",
+      "postId": "3",
+      "id": 1
+    },
+    {
+      "content": "new comment",
+      "postId": "2",
+      "id": 2
+    },
+    {
+      "content": "comment of post 6",
+      "postId": "6",
+      "id": 3
+    },
+    {
+      "content": "comment of post 6 1",
+      "postId": "6",
+      "id": 4
+    },
+    {
+      "content": "",
+      "postId": "6",
+      "id": 5
+    },
+    {
+      "content": "",
+      "postId": "5",
+      "id": 6
+    }
+  ]
+}
